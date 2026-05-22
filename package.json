@@ -14,8 +14,8 @@
   "license": "ISC",
   "devDependencies": {
     "axios": "^0.16.2",
-    "chai": "^4.0.2",
-    "mocha": "^3.5.0",
-    "nightmare": "^3.0.1"
+    "chai": "^4.5.0",
+    "chai-http": "^5.1.2",
+    "mocha": "^3.5.3"
   }
 }
